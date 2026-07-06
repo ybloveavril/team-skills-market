@@ -44,8 +44,10 @@ node ../../node_modules/next/dist/bin/next dev --webpack --port 7777
 #### 方法 A：使用 npm 安装
 
 ```bash
-npm install -g @openai/codex-cli
+npm install -g @openai/codex
 ```
+
+⚠️ **注意**: 包名是 `@openai/codex`，不是 `@openai/codex-cli`
 
 #### 方法 B：从官网下载
 
