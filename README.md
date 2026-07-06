@@ -19,7 +19,7 @@
 npm install -g plexus-agent-config
 
 # 2. 订阅团队 Skill 仓库
-plexus join https://github.com/your-org/team-skills-market.git
+plexus join https://github.com/ybloveavril/team-skills-market.git
 
 # 3. 拉取最新 Skills
 plexus pull
@@ -39,7 +39,7 @@ plexus sync
 ```bash
 # 1. Fork 这个仓库
 # 2. Clone 到本地
-git clone https://github.com/your-username/team-skills-market.git
+git clone https://github.com/ybloveavril/team-skills-market.git
 cd team-skills-market
 
 # 3. 创建你的 Skill
